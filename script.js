@@ -46,17 +46,17 @@ document.addEventListener('DOMContentLoaded', () => {
   if (surpriseBtn) surpriseBtn.style.display = 'none';
 
   const openingLines = [
-    "Hari ini adalah hari yang begitu spesial, karena tepat di hari ini kamu bertambah usia. Kamu adalah alasan terbesar senyumku setiap hari, sumber semangatku di setiap langkah.",
+    "Hari ini adalah hari yang begitu spesial, karena tepat di hari ini kamu bertambah usia. Kamu adalah alasan terbesar senyumku setiap harinya, sumber semangatku di setiap langkah.",
     "",
-    "Semoga semua harapanmu terwujud, kebahagiaanmu terus bertambah di setiap waktunya, dan setiap mimpi indahmu menemukan jalan untuk menjadi nyata."
+    "Semoga semua harapan kamu terwujud, kebahagiaan kamu terus bertambah di setiap waktunya, dan setiap mimpi indah kamu menemukan jalan untuk menjadi nyata."
   ];
   const mainLines = [
     "Terima kasih sudah selalu ada, dalam suka maupun duka.",
-    "Setiap momen bersamamu adalah hadiah terindah yang pernah aku dapatkan.",
+    "Setiap momen bersama kamu adalah hadiah terindah yang pernah aku dapatkan.",
     "",
-    "Semoga di umur kamu saat ini, kamu selalu dikelilingi cinta, tawa, dan kebahagiaan, Jangan pernah ragu untuk bermimpi, karena aku akan selalu mendukungmu.",
+    "Semoga di umur kamu saat ini, kamu selalu dikelilingi cinta, tawa, dan kebahagiaan, Jangan pernah ragu untuk bermimpi, karena aku bakalan selalu mendukung kamu.",
     "",
-    "Tetaplah menjadi kamu yang manis, lucu, dan penuh semangat.",
+    "Tetaplah menjadi orang yang selalu manis, lucu, dan penuh semangat.",
     "",
     "Selamat ulang tahun, sayang. Semoga semua yang terbaik selalu untukmu! 🎂💖"
   ];
