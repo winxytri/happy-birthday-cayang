@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (surpriseBtn) surpriseBtn.style.display = 'none';
 
   const openingLines = [
-    "Hari ini adalah hari yang begitu spesial, karena tepat di hari ini kamu bertambah usia.",
+    "Hari ini adalah hari yang begitu spesial, karena tepat di hari ini kamu bertambah usia yang ke-20 tahun sayangku.",
     "",
     "Semoga semua harapan kamu terwujud, kebahagiaan kamu terus bertambah di setiap waktunya, dan setiap mimpi indah kamu menemukan jalan untuk menjadi nyata."
   ];
